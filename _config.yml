@@ -4,13 +4,13 @@
 
 url: http://www.reinal.se
 title: Reinal AB
-email: martin.selin@reinal.se
+email: info@reinal.se
 author: Martin Selin
 description: > # "Write an awesome description for your new site here.
   You can edit this line in _config.yml. It will appear in your document
   head meta (for Google search results) and in your feed.xml site
   description.
-copyright: 'Copyright &copy; 2016 Reinal AB.'
+copyright: 'Copyright &copy; 2018 Reinal AB.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #
@@ -27,8 +27,8 @@ permalink: pretty
 
 social:
   - title: envelope-o
-    url: mailto:martin.selin@reinal.se
-    label: martin.selin@reinal.se
+    url: mailto:info@reinal.se
+    label: info@reinal.se
 #  - title: twitter
 #    url: https://twitter.com/SBootstrap
 #  - title: github

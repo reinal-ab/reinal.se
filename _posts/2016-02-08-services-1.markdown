@@ -2,7 +2,12 @@
 layout: default
 img: ipad.png
 category: Services
-title: Ekonomi redovisning
+title: Tjänster
 description: |
 ---
-  * Text om Ekonomi
+  * Löpande redovisning
+  * Årsredovisning
+  * Deklarationer
+  * Skatter
+  * Konsultationer
+
