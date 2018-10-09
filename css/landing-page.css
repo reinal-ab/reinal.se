@@ -164,3 +164,17 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
+
+.navbar-brand img {
+    width: 200px;
+    height: auto;
+    vertical-align: middle;
+}
+
+.container {
+   min-height: 70px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 30px;
+}
